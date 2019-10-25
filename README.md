@@ -7,6 +7,7 @@ Aplicativo mobile que realiza consultas de dados climáticos em uma API.
   <tr align="center">
     <td><img src="https://github.com/flame-studio/Climapp/blob/master/screen1.PNG" width="240" height="400">      </td>
     <td><img src="https://github.com/flame-studio/Climapp/blob/master/screen2.PNG" width="240" height="400">      </td>
+    <td><img src="https://github.com/flame-studio/Climapp/blob/master/1.PNG" width="240" height="400">      </td>
   </tr>
 </table>
 
